@@ -1,0 +1,12 @@
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.deps.json
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.runtimeconfig.json
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.pdb
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.Rekognition.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\GrapeCity.Documents.Imaging.dll
+C:\Suresh\Canada Project\Surya_COMP306Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\ja\GrapeCity.Documents.Imaging.resources.dll

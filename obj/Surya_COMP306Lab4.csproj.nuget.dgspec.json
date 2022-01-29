@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CentennialCollege\\Sem4\\API CLOUD COMPUTING\\Lab4\\Surya_COMP306Lab4\\Surya_COMP306Lab4.csproj": {}
+  },
+  "projects": {
+    "D:\\CentennialCollege\\Sem4\\API CLOUD COMPUTING\\Lab4\\Surya_COMP306Lab4\\Surya_COMP306Lab4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CentennialCollege\\Sem4\\API CLOUD COMPUTING\\Lab4\\Surya_COMP306Lab4\\Surya_COMP306Lab4.csproj",
+        "projectName": "Surya_COMP306Lab4",
+        "projectPath": "D:\\CentennialCollege\\Sem4\\API CLOUD COMPUTING\\Lab4\\Surya_COMP306Lab4\\Surya_COMP306Lab4.csproj",
+        "packagesPath": "C:\\Users\\santh\\.nuget\\packages\\",
+        "outputPath": "D:\\CentennialCollege\\Sem4\\API CLOUD COMPUTING\\Lab4\\Surya_COMP306Lab4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.2.1, )"
+            },
+            "AWSSDK.Rekognition": {
+              "target": "Package",
+              "version": "[3.7.6.1, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.7.2, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "GrapeCity.Documents.Imaging": {
+              "target": "Package",
+              "version": "[5.0.0.762, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

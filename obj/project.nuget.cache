@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "sR8XPDxVd9nUPZ2k885PN5j/bAq4PsR5VAO/RaTqeaTrkcoqg+2O+f0+stnP5j9RXXe8Fi0+7VkH4grysBToJA==",
+  "success": true,
+  "projectFilePath": "D:\\CentennialCollege\\Sem4\\API CLOUD COMPUTING\\Lab4\\Surya_COMP306Lab4\\Surya_COMP306Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santh\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\awssdk.core\\3.7.5.5\\awssdk.core.3.7.5.5.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.2.1\\awssdk.dynamodbv2.3.7.2.1.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\awssdk.rekognition\\3.7.6.1\\awssdk.rekognition.3.7.6.1.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\awssdk.s3\\3.7.7.2\\awssdk.s3.3.7.7.2.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\grapecity.documents.imaging\\5.0.0.762\\grapecity.documents.imaging.5.0.0.762.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\santh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

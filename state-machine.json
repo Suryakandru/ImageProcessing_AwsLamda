@@ -1,0 +1,51 @@
+{
+  "Comment": "State Machine",
+  "StartAt": "IsUploadedObjectAnImage",
+  "States": {
+    "IsUploadedObjectAnImage": {
+      "Type": "Task",
+      "Resource": "${IsUploadedObjectAnImageTask.Arn}",
+      "Next": "ContinueOrExit"
+    },
+    "ContinueOrExit": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.IsAnImage",
+          "BooleanEquals": true,
+          "Next": "ParellelTasks"
+        }
+      ],
+      "Default": "Success"
+    },
+    "ParellelTasks": {
+      "Type": "Parallel",
+      "End": true,
+      "Branches": [
+        {
+          "StartAt": "DetectLabel",
+          "States": {
+            "DetectLabel": {
+              "Type": "Task",
+              "Resource": "${DetectLabelTask.Arn}",
+              "End": true
+            }
+          }
+        },
+        {
+          "StartAt": "GenerateThumbnail",
+          "States": {
+            "GenerateThumbnail": {
+              "Type": "Task",
+              "Resource": "${GenerateThumbnailTask.Arn}",
+              "End": true
+            }
+          }
+        }
+      ]
+    },
+    "Success": {
+      "Type": "Succeed"
+    }
+  }
+}

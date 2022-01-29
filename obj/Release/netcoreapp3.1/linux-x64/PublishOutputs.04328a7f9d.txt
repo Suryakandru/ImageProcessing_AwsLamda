@@ -1,0 +1,12 @@
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.deps.json
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.runtimeconfig.json
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Surya_COMP306Lab4.pdb
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.Rekognition.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\GrapeCity.Documents.Imaging.dll
+D:\CentennialCollege\Sem4\API CLOUD COMPUTING\Lab4\Surya_COMP306Lab4\bin\Release\netcoreapp3.1\publish\ja\GrapeCity.Documents.Imaging.resources.dll
